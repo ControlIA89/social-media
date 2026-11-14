@@ -15,5 +15,10 @@
 | 2026-11-14 | storia (Instagram) | Budget 2027 | Il budget parte dai driver, non dai numeri | - |
 | 2026-11-14 | storia (Instagram) | Controllo di gestione | L'utile non è cassa | - |
 | 2026-11-15 | reel | Claude e strumenti AI | 5 skill finance che ho costruito con Claude | numero |
+| 2026-11-15 | storia (Instagram) | Budget 2027 | Domani parte il budget 2027 | - |
+| 2026-11-15 | storia (Instagram) | Controllo di gestione | Sai dov'è il tuo punto di pareggio? | - |
+| 2026-11-15 | storia (Instagram) | AI per la finanza | Prima di dare i dati all'AI, togli i nomi | - |
+| 2026-11-15 | storia (Instagram) | Claude e strumenti AI | Non chiedere solo il risultato. Chiedi i controlli | - |
+| 2026-11-15 | storia (Instagram) | Budget 2027 | Un solo scenario è una scommessa | - |
 
 Pronto ma non ancora programmato: carosello "3 segnali che il tuo controllo di gestione è in ritardo" (media/2026-11-12/post_slide_1..5.png, invito CONTROLLO).
