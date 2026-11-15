@@ -20,5 +20,12 @@
 | 2026-11-15 | storia (Instagram) | AI per la finanza | Prima di dare i dati all'AI, togli i nomi | - |
 | 2026-11-15 | storia (Instagram) | Claude e strumenti AI | Non chiedere solo il risultato. Chiedi i controlli | - |
 | 2026-11-15 | storia (Instagram) | Budget 2027 | Un solo scenario è una scommessa | - |
+| 2026-11-16 | reel (Instagram) | Budget 2027 | Budget 2027: non partire da Excel (5 passi) | BUDGET |
+| 2026-11-16 | video (LinkedIn) | Budget 2027 | Budget 2027 in 5 passi, stesso video del reel | domanda: driver o consuntivo? |
+| 2026-11-16 | storia (Instagram) | Budget 2027 | Il budget delle vendite parte da tre leve | - |
+| 2026-11-16 | storia (Instagram) | Controllo di gestione | Costi fissi o variabili? Separali | - |
+| 2026-11-16 | storia (Instagram) | Budget 2027 | Budget di cassa: conta quando incassi | - |
+| 2026-11-16 | storia (Instagram) | AI per la finanza | All'AI chiedi le ipotesi, non il numero | - |
+| 2026-11-16 | storia (Instagram) | Budget 2027 | Il 2027 non è il 2026 con un ritocco | - |
 
 Pronto ma non ancora programmato: carosello "3 segnali che il tuo controllo di gestione è in ritardo" (media/2026-11-12/post_slide_1..5.png, invito CONTROLLO).
