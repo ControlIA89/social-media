@@ -30,6 +30,10 @@ Controlli prima di consegnare: guarda un fotogramma o l'immagine di ogni scena; 
 
 `media/registro.md`: una riga per contenuto pubblicato (data, formato, tema, titolo, parola chiave dell'invito). Leggilo prima di scegliere i temi, per non ripeterti, e aggiornalo a fine lavoro.
 
+## Analisi delle performance
+
+Ogni domenica un'attività programmata scrive `media/analisi/AAAA-MM-GG.md` e aggiorna `media/analisi/ultima.md`. Prima di scegliere temi, ganci e formati leggi `media/analisi/ultima.md` e applicala. Se contraddice una regola di questo file, vale questo file.
+
 ## Audio dei reel
 
 Ogni reel esce con una musica di sottofondo rilassante e senza voce. La musica si genera da zero, quindi non ha diritti di terzi.
