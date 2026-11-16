@@ -29,3 +29,16 @@ Controlli prima di consegnare: guarda un fotogramma o l'immagine di ogni scena; 
 ## Registro
 
 `media/registro.md`: una riga per contenuto pubblicato (data, formato, tema, titolo, parola chiave dell'invito). Leggilo prima di scegliere i temi, per non ripeterti, e aggiornalo a fine lavoro.
+
+## Audio dei reel
+
+Ogni reel esce con una musica di sottofondo rilassante e senza voce. La musica si genera da zero, quindi non ha diritti di terzi.
+
+```
+D=$(ffprobe -v error -show_entries format=duration -of csv=p=0 reel.mp4)
+python3 generator/reel/musica_focus.py $D musica.wav
+ffmpeg -y -i reel.mp4 -i musica.wav -filter_complex "[1:a]lowpass=f=3800,highpass=f=40,loudnorm=I=-20:TP=-2[a]" \
+  -map 0:v -map "[a]" -c:v copy -c:a aac -b:a 160k -shortest reel_con_musica.mp4
+```
+
+Serve il pacchetto Python `soundfile` (`pip install soundfile`). Controlla con ffprobe che il file finale abbia una traccia audio lunga quanto il video. Se la musica non si riesce a generare, pubblica il reel muto e segnalalo nel riepilogo.
