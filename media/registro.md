@@ -27,5 +27,9 @@
 | 2026-11-16 | storia (Instagram) | Budget 2027 | Budget di cassa: conta quando incassi | - |
 | 2026-11-16 | storia (Instagram) | AI per la finanza | All'AI chiedi le ipotesi, non il numero | - |
 | 2026-11-16 | storia (Instagram) | Budget 2027 | Il 2027 non è il 2026 con un ritocco | - |
-
-Pronto ma non ancora programmato: carosello "3 segnali che il tuo controllo di gestione è in ritardo" (media/2026-11-12/post_slide_1..5.png, invito CONTROLLO).
+| 2026-11-17 | carosello (Instagram) | Controllo di gestione | 3 segnali che il tuo controllo di gestione è in ritardo | CONTROLLO |
+| 2026-11-17 | storia (Instagram) | Budget 2027 | Il budget dei costi: tre famiglie | - |
+| 2026-11-17 | storia (Instagram) | Budget 2027 | Il budget serve se lo confronti ogni mese | - |
+| 2026-11-17 | storia (Instagram) | Controllo di gestione | 3 segnali che il controllo è in ritardo (rimando al carosello) | - |
+| 2026-11-17 | storia (Instagram) | Budget 2027 | Nel budget, cosa delego all'AI | - |
+| 2026-11-17 | storia (Instagram) | Budget 2027 | Il budget non va chiuso in un cassetto | - |
