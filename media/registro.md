@@ -33,3 +33,9 @@
 | 2026-11-17 | storia (Instagram) | Controllo di gestione | 3 segnali che il controllo è in ritardo (rimando al carosello) | - |
 | 2026-11-17 | storia (Instagram) | Budget 2027 | Nel budget, cosa delego all'AI | - |
 | 2026-11-17 | storia (Instagram) | Budget 2027 | Il budget non va chiuso in un cassetto | - |
+| 2026-11-17 | reel (Instagram, 18:30) | Claude e strumenti AI | Claude Data: ogni numero con la sua fonte | FINANCE |
+| 2026-11-18 | reel (Instagram) | Claude e strumenti AI | Claude Meetings: esci dalla riunione con le azioni già scritte | FINANCE |
+| 2026-11-18 | video (LinkedIn) | Claude e strumenti AI | Claude Meetings, stesso video del reel, con invito a seguire il profilo Instagram | domanda: chi scrive il verbale? |
+| 2026-11-19 | reel (Instagram) | Claude e strumenti AI | Claude Whiteboards: il tuo budget su una lavagna | FINANCE |
+
+Già programmati su richiesta di Emanuele (17 nov): il post Instagram del 18 e del 19 novembre e il post LinkedIn del 18 novembre sono le righe qui sopra. Per quei giorni prepara solo le 5 storie, senza un altro post.
