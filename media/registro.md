@@ -42,5 +42,10 @@
 | 2026-11-18 | storia (Instagram, 17:00) | Budget 2027 | Il costo del personale si fa per persona | - |
 | 2026-11-18 | storia (Instagram, 20:00) | Controllo di gestione | Lo scostamento va spiegato, non solo letto | - |
 | 2026-11-19 | reel (Instagram) | Claude e strumenti AI | Claude Whiteboards: il tuo budget su una lavagna | FINANCE |
+| 2026-11-19 | storia (Instagram, 8:00) | Budget 2027 | Dodici mesi uguali non esistono (stagionalità) | - |
+| 2026-11-19 | storia (Instagram, 11:00) | Budget 2027 | Un investimento ha tre date | - |
+| 2026-11-19 | storia (Instagram, 14:00) | Budget 2027 | Prima il processo, poi i numeri (rimando al reel) | - |
+| 2026-11-19 | storia (Instagram, 17:00) | Budget 2027 | Fissa ora le date della revisione | - |
+| 2026-11-19 | storia (Instagram, 20:00) | Tesoreria e crediti | Lo scaduto si guarda per fasce | - |
 
 Già programmati su richiesta di Emanuele (17 nov): il post Instagram del 18 e del 19 novembre e il post LinkedIn del 18 novembre sono le righe qui sopra. Per quei giorni prepara solo le 5 storie, senza un altro post.
