@@ -47,5 +47,16 @@
 | 2026-11-19 | storia (Instagram, 14:00) | Budget 2027 | Prima il processo, poi i numeri (rimando al reel) | - |
 | 2026-11-19 | storia (Instagram, 17:00) | Budget 2027 | Fissa ora le date della revisione | - |
 | 2026-11-19 | storia (Instagram, 20:00) | Tesoreria e crediti | Lo scaduto si guarda per fasce | - |
+| 2026-11-21 | carosello (Instagram, 12:30) | Budget 2027 | 5 errori che rendono il budget 2027 inutile a marzo | BUDGET |
+| 2026-11-21 | storia (Instagram, 8:00) | Budget 2027 | Prima del budget, chiudi bene il 2026 | - |
+| 2026-11-21 | storia (Instagram, 11:00) | Controllo di gestione | Non tutti i clienti ti fanno guadagnare | - |
+| 2026-11-21 | storia (Instagram, 14:00) | Budget 2027 | 5 errori del budget (rimando al carosello) | - |
+| 2026-11-21 | storia (Instagram, 17:00) | Budget 2027 | In cassa ci sono mesi pesanti | - |
+| 2026-11-21 | storia (Instagram, 20:00) | Claude e strumenti AI | Spieghi il budget a Claude una volta (rimando al reel) | - |
+| 2026-11-21 | reel (Instagram, 18:30) | Claude e strumenti AI | Progetti di Claude: spieghi il budget una volta | METODO |
+| 2026-11-22 | reel (Instagram, 18:30) | Claude e strumenti AI | Il foglio del budget pronto in chat (file Excel creati da Claude) | BUDGET |
+| 2026-11-23 | reel (Instagram, 18:30) | Claude e strumenti AI | Claude in Excel: chiedi al foglio perché il margine scende | FINANCE |
 
 Già programmati su richiesta di Emanuele (17 nov): il post Instagram del 18 e del 19 novembre e il post LinkedIn del 18 novembre sono le righe qui sopra. Per quei giorni prepara solo le 5 storie, senza un altro post.
+
+Già programmati su richiesta di Emanuele (20 nov): un reel su come usare Claude alle 18:30 il 21, 22 e 23 novembre (righe qui sopra). Per il 22 e il 23 il post delle 12:30, le storie e il LinkedIn del 23 vanno preparati come al solito; evita di ripetere gli stessi argomenti. Il 20 novembre non è uscito nulla.
