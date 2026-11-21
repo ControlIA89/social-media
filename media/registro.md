@@ -56,7 +56,20 @@
 | 2026-11-21 | reel (Instagram, 18:30) | Claude e strumenti AI | Progetti di Claude: spieghi il budget una volta | METODO |
 | 2026-11-22 | reel (Instagram, 18:30) | Claude e strumenti AI | Il foglio del budget pronto in chat (file Excel creati da Claude) | BUDGET |
 | 2026-11-23 | reel (Instagram, 18:30) | Claude e strumenti AI | Claude in Excel: chiedi al foglio perché il margine scende | FINANCE |
+| 2026-11-22 | immagine singola (Instagram, 12:30) | Budget 2027 | Il budget 2027 risponde a sei domande | BUDGET |
+| 2026-11-22 | storia (Instagram, 8:00) | Budget 2027 | Il budget sta in tre prospetti | - |
+| 2026-11-22 | storia (Instagram, 11:00) | AI per la finanza | All'AI dai il contesto, non solo il file | - |
+| 2026-11-22 | storia (Instagram, 14:00) | Budget 2027 | Sei domande, una pagina (rimando al post) | - |
+| 2026-11-22 | storia (Instagram, 17:00) | Tesoreria e crediti | Nel budget conta quando incassi | - |
+| 2026-11-22 | storia (Instagram, 20:00) | Claude e strumenti AI | Il foglio del budget pronto in chat (rimando al reel) | - |
+| 2026-11-23 | carosello (Instagram, 12:30) | Budget 2027 | Budget di cassa in 4 passi | BUDGET |
+| 2026-11-23 | carosello (LinkedIn, 13:00) | Budget 2027 | Budget di cassa in 4 passi, stesse immagini, invito a seguire Instagram | domanda: cassa mese per mese o a fine anno? |
+| 2026-11-23 | storia (Instagram, 8:00) | Budget 2027 | Il saldo che conta è il più basso | - |
+| 2026-11-23 | storia (Instagram, 11:00) | Controllo di gestione | Prima del budget, il piano dei conti | - |
+| 2026-11-23 | storia (Instagram, 14:00) | Budget 2027 | Budget di cassa in 4 passi (rimando al carosello) | - |
+| 2026-11-23 | storia (Instagram, 17:00) | AI per la finanza | Chiedi all'AI le incoerenze | - |
+| 2026-11-23 | storia (Instagram, 20:00) | Claude e strumenti AI | Chiedi al tuo Excel perché il margine scende (rimando al reel) | - |
 
 Già programmati su richiesta di Emanuele (17 nov): il post Instagram del 18 e del 19 novembre e il post LinkedIn del 18 novembre sono le righe qui sopra. Per quei giorni prepara solo le 5 storie, senza un altro post.
 
-Già programmati su richiesta di Emanuele (20 nov): un reel su come usare Claude alle 18:30 il 21, 22 e 23 novembre (righe qui sopra). Per il 22 e il 23 il post delle 12:30, le storie e il LinkedIn del 23 vanno preparati come al solito; evita di ripetere gli stessi argomenti. Il 20 novembre non è uscito nulla.
+Già programmati su richiesta di Emanuele (20 nov): un reel su come usare Claude alle 18:30 il 21, 22 e 23 novembre (righe qui sopra). Il 21 novembre mattina sono stati programmati in anticipo anche post, storie e LinkedIn del 22 e del 23 (righe qui sopra): per quei giorni non serve altro. Il 20 novembre non è uscito nulla (esecuzione fallita per limite di utilizzo).
