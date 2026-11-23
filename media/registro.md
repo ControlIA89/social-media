@@ -69,6 +69,12 @@
 | 2026-11-23 | storia (Instagram, 14:00) | Budget 2027 | Budget di cassa in 4 passi (rimando al carosello) | - |
 | 2026-11-23 | storia (Instagram, 17:00) | AI per la finanza | Chiedi all'AI le incoerenze | - |
 | 2026-11-23 | storia (Instagram, 20:00) | Claude e strumenti AI | Chiedi al tuo Excel perché il margine scende (rimando al reel) | - |
+| 2026-11-24 | reel (Instagram, 12:30) | Budget 2027 | Ricavi sotto budget? Trova il perché in 3 domande (prezzo, volume, mix) | CONTROLLO |
+| 2026-11-24 | storia (Instagram, 8:00) | Budget 2027 | Il listino 2027 si decide prima del budget | - |
+| 2026-11-24 | storia (Instagram, 11:00) | Controllo di gestione | Il report mensile sta in una pagina | - |
+| 2026-11-24 | storia (Instagram, 14:00) | Budget 2027 | Sotto budget? Tre domande (rimando al reel) | - |
+| 2026-11-24 | storia (Instagram, 17:00) | Budget 2027 | Confronta a parità di volumi (budget flessibile) | - |
+| 2026-11-24 | storia (Instagram, 20:00) | Offerte ControlIA | AI 4 Finance: reporting e controllo con l'AI | FINANCE in DM |
 
 Già programmati su richiesta di Emanuele (17 nov): il post Instagram del 18 e del 19 novembre e il post LinkedIn del 18 novembre sono le righe qui sopra. Per quei giorni prepara solo le 5 storie, senza un altro post.
 
