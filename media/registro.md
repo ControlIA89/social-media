@@ -75,6 +75,13 @@
 | 2026-11-24 | storia (Instagram, 14:00) | Budget 2027 | Sotto budget? Tre domande (rimando al reel) | - |
 | 2026-11-24 | storia (Instagram, 17:00) | Budget 2027 | Confronta a parità di volumi (budget flessibile) | - |
 | 2026-11-24 | storia (Instagram, 20:00) | Offerte ControlIA | AI 4 Finance: reporting e controllo con l'AI | FINANCE in DM |
+| 2026-11-25 | carosello (Instagram, 12:30) | Budget 2027 | Budget 2027: tre scenari, non uno (4 passi) | BUDGET |
+| 2026-11-25 | carosello (LinkedIn, 13:00) | Budget 2027 | Tre scenari, non uno, stesse immagini, invito a seguire Instagram | domanda: uno scenario o più di uno? |
+| 2026-11-25 | storia (Instagram, 8:00) | Budget 2027 | Il budget vendite parte dai clienti | - |
+| 2026-11-25 | storia (Instagram, 11:00) | AI per la finanza | Prima di fidarti, controlla i totali | - |
+| 2026-11-25 | storia (Instagram, 14:00) | Budget 2027 | Tre scenari, non uno (rimando al carosello) | - |
+| 2026-11-25 | storia (Instagram, 17:00) | Budget 2027 | Il forecast non riscrive il budget | - |
+| 2026-11-25 | storia (Instagram, 20:00) | Tesoreria e crediti | Il sollecito parte prima della scadenza (con indirizzo della libreria) | - |
 
 Già programmati su richiesta di Emanuele (17 nov): il post Instagram del 18 e del 19 novembre e il post LinkedIn del 18 novembre sono le righe qui sopra. Per quei giorni prepara solo le 5 storie, senza un altro post.
 
