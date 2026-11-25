@@ -82,6 +82,12 @@
 | 2026-11-25 | storia (Instagram, 14:00) | Budget 2027 | Tre scenari, non uno (rimando al carosello) | - |
 | 2026-11-25 | storia (Instagram, 17:00) | Budget 2027 | Il forecast non riscrive il budget | - |
 | 2026-11-25 | storia (Instagram, 20:00) | Tesoreria e crediti | Il sollecito parte prima della scadenza (con indirizzo della libreria) | - |
+| 2026-11-26 | reel (Instagram, 12:30) | Budget 2027 | Tieni vivo il budget tutto l'anno in 3 passi (chiudi, confronta, decidi) | CONTROLLO |
+| 2026-11-26 | storia (Instagram, 8:00) | Budget 2027 | Gli acquisti seguono le vendite | - |
+| 2026-11-26 | storia (Instagram, 11:00) | Controllo di gestione | Tre indicatori, ogni settimana | - |
+| 2026-11-26 | storia (Instagram, 14:00) | Budget 2027 | Il budget si guarda ogni mese (rimando al reel) | - |
+| 2026-11-26 | storia (Instagram, 17:00) | Budget 2027 | La rata non è tutta costo | - |
+| 2026-11-26 | storia (Instagram, 20:00) | Tesoreria e crediti | Guarda la cassa a 13 settimane (con indirizzo della libreria) | - |
 
 Già programmati su richiesta di Emanuele (17 nov): il post Instagram del 18 e del 19 novembre e il post LinkedIn del 18 novembre sono le righe qui sopra. Per quei giorni prepara solo le 5 storie, senza un altro post.
 
