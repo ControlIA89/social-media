@@ -88,7 +88,11 @@
 | 2026-11-26 | storia (Instagram, 14:00) | Budget 2027 | Il budget si guarda ogni mese (rimando al reel) | - |
 | 2026-11-26 | storia (Instagram, 17:00) | Budget 2027 | La rata non è tutta costo | - |
 | 2026-11-26 | storia (Instagram, 20:00) | Tesoreria e crediti | Guarda la cassa a 13 settimane (con indirizzo della libreria) | - |
+| 2026-11-26 | reel (Instagram, 18:30) | Novità di Claude | Claude Sheets: il foglio lo costruisce Claude, con te (beta, piani a pagamento) | FINANCE |
+| 2026-11-28 | reel (Instagram, 18:30) | Novità di Claude | 3 novità di Claude per chi fa finanza: file e app collegate, tag di progetto, Claude Sheets | FINANCE |
 
 Già programmati su richiesta di Emanuele (17 nov): il post Instagram del 18 e del 19 novembre e il post LinkedIn del 18 novembre sono le righe qui sopra. Per quei giorni prepara solo le 5 storie, senza un altro post.
 
 Già programmati su richiesta di Emanuele (20 nov): un reel su come usare Claude alle 18:30 il 21, 22 e 23 novembre (righe qui sopra). Il 21 novembre mattina sono stati programmati in anticipo anche post, storie e LinkedIn del 22 e del 23 (righe qui sopra): per quei giorni non serve altro. Il 20 novembre non è uscito nulla (esecuzione fallita per limite di utilizzo).
+
+Indicazione di Emanuele del 26 nov: più contenuti sul controllo di gestione in generale (budget 2027 a circa un terzo) e uno o due reel a settimana sulle novità di Claude, extra alle 18:30. I reel del 26 e del 28 novembre alle 18:30 (righe qui sopra) sono già programmati: non contano come post delle 12:30 e non vanno ripetuti.
