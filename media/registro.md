@@ -90,6 +90,13 @@
 | 2026-11-26 | storia (Instagram, 20:00) | Tesoreria e crediti | Guarda la cassa a 13 settimane (con indirizzo della libreria) | - |
 | 2026-11-26 | reel (Instagram, 18:30) | Novità di Claude | Claude Sheets: il foglio lo costruisce Claude, con te (beta, piani a pagamento) | FINANCE |
 | 2026-11-28 | reel (Instagram, 18:30) | Novità di Claude | 3 novità di Claude per chi fa finanza: file e app collegate, tag di progetto, Claude Sheets | FINANCE |
+| 2026-11-27 | carosello (Instagram, 12:30) | Budget 2027 | Budget dei costi: non copiare il 2026 (4 passi) | BUDGET |
+| 2026-11-27 | carosello (LinkedIn, 13:00) | Budget 2027 | Budget dei costi in 4 passi, stesse immagini, invito a seguire Instagram | domanda: dai contratti o dal consuntivo? |
+| 2026-11-27 | storia (Instagram, 8:00) | Budget 2027 | Gli aumenti si chiedono adesso (listini fornitori) | - |
+| 2026-11-27 | storia (Instagram, 11:00) | Controllo di gestione | Costi indiretti: un criterio, sempre | - |
+| 2026-11-27 | storia (Instagram, 14:00) | Budget 2027 | Budget dei costi in 4 passi (rimando al carosello) | - |
+| 2026-11-27 | storia (Instagram, 17:00) | Controllo di gestione | Un centro di costo, un responsabile | - |
+| 2026-11-27 | storia (Instagram, 20:00) | AI per la finanza | Prima dell'AI, i dati in ordine (con indirizzo della libreria) | - |
 
 Già programmati su richiesta di Emanuele (17 nov): il post Instagram del 18 e del 19 novembre e il post LinkedIn del 18 novembre sono le righe qui sopra. Per quei giorni prepara solo le 5 storie, senza un altro post.
 
